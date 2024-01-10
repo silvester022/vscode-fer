@@ -18,4 +18,3 @@ const hola = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', '
 // Objetivo final
 
 const diasDemo = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
-

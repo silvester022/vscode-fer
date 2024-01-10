@@ -30,7 +30,7 @@ function capitalizados() {
 
 function minusculas() {
 
-    const HULK       = 'brouce banner';
+    const hulk       = 'brouce banner';
     const HAWKEYE    = 'cinton francis';
     const IRONMAN    = 'tony stark';
     const SPIDERMAN  = 'peter parker';

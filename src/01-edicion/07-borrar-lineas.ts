@@ -13,7 +13,7 @@
 //*
 
 let NoMeBorres = ':)';
-let Borrame = ':(';
+let borrame = ':(';
 
 NoMeBorres = '1';
 Borrame    = 'a';
